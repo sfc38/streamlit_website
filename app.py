@@ -1,1 +1,1 @@
-import streamlit as stwelcome_message = "Hello David!"st.write(welcome_message)# The user input boxdefault_value = "70"message = "Enter your age"help_message_input = "I said enter your age"user_input = st.text_input(message, default_value, help=help_message_input)
+import streamlit as stwelcome_message = "Hello David!"st.write(welcome_message)# The user input boxdefault_value = "70"message = "Enter your age"help_message_input = "I said enter your age!"user_input = st.text_input(message, default_value, help=help_message_input)
